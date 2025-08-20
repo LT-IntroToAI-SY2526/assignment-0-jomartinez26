@@ -1,7 +1,8 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Jacob Martinez
+
+**Date:** 8/20/2025
 
 ---
 
@@ -10,7 +11,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a distributed Version Control System, it is the software that powers GitHub, while GitHub is a web interface that allows users to use Git online.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
@@ -24,9 +25,7 @@ All answers can be found in the README.md file
 
 ## Profile Repository Link
 
-**Link to your GitHub profile repository:** 
-
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+**Link to your GitHub profile repository: https://github.com/1xfan/1xfan** 
 
 ---
 
