@@ -15,7 +15,7 @@ Git is a distributed Version Control System, it is the software that powers GitH
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing allows one to save their changes, not necessarily updating the code for everyone else. Pushing applies all of the edits you've made via commits to the target branch of the repository.
+Committing allows one to save their changes, not necessarily updating the code on the repository for everyone else. Pushing applies all of the edits you've made via commits to the target branch of the repository, so that those changes are visible to everyone. These steps are important because you need to commit changes to push in the first place. The distiction is especially important when working with a team, where pushing before you've made all the changes you want to make would mean the team would have to run ```git pull``` an unnecessary amount of times, when you could instead just commit all your planned changes before pushing them.
 
 **3. What is a repository and what does it contain?**
 
