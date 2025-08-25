@@ -8,17 +8,17 @@
 | Criteria | Points Possible | Points Earned | Comments |
 |----------|----------------|---------------|----------|
 | **Technical Completion** | | | |
-| GitHub Setup & Repository Changes | 2 |  | |
-| Profile Repository Creation | 2 |  | |
+| GitHub Setup & Repository Changes | 2 |2  | |
+| Profile Repository Creation | 2 | 2 | |
 | **Writeup Quality** | | | |
-| Question 1: Git vs GitHub | 1 |  | |
-| Question 2: Committing & Pushing | 1 |  | |
-| Question 3: Repositories | 1 |  | |
-| AI Excitement Response | 1 |  | |
+| Question 1: Git vs GitHub | 1 | 1 | |
+| Question 2: Committing & Pushing | 1 | 1 | |
+| Question 3: Repositories | 1 | 1 | |
+| AI Excitement Response | 1 | 1 | |
 | **Communication & Professionalism** | | | |
-| Writing Quality | 1 |  | |
-| Following Directions | 1 |  | |
-| **TOTAL** | **10** | | |
+| Writing Quality | 1 | 1 | |
+| Following Directions | 1 | 1 | |
+| **TOTAL** | **10** | 10 | |
 
 ---
 
